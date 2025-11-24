@@ -4,3 +4,5 @@ output_directory: produktspesifikasjon
 product_slug: admenheter
 updated: 2025-01-01
 xmi-model:
+xmi-username: sosi
+xmi-password: sosi
