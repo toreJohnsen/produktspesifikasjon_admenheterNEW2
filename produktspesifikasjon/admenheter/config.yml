@@ -3,6 +3,3 @@ ogc_feature_api: https://kos-pygeoapi.atkv3-dev.kartverket.cloud/collections
 output_directory: arealanalyse
 product_slug: arealanalyse
 updated: 2025-11-26
-xmi-model: https://sosi.geonorge.no/!/#SOSI/view/head/SOSI%20Del%203/Statens%20kartverk/NasjonaltGrunnkartForArealanalyse-20260101.xml
-xmi-username: sosi
-xmi-password: sosi
